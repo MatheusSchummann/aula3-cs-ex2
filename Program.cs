@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace Aula3_cs_ex2
 {
+    
+    /*Escreva um programa em C# que leia 3 valores a, b e c, coeficientes de uma 
+    equação de segundo grau, e calcule e escreva as raízes da equação.*/ 
+    
     internal class Program
     {
         static void Main(string[] args)
